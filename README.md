@@ -82,4 +82,7 @@ Interactive dashboards provide insights into customer segments, revenue trends, 
   - Batch upload for all customers
     <img width="739" height="552" alt="image" src="https://github.com/user-attachments/assets/66262e7f-f83a-4466-b803-859e6d2dcfec" />
 
-- Displays predicted segment and model confidence.  
+- Displays predicted segment and model confidence.
+
+## Live Demo
+Try the interactive app here: [Customer Segmentation Prediction App](https://customer-segmentation-prediction-app.streamlit.app/)
